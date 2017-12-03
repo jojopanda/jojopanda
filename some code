@@ -1,0 +1,14 @@
+a = 0
+while a != "jordan" :
+    a = input("Enter the lasr name")
+    if a != "jordan" :
+        print("no")
+    else:
+        print("hello", a)
+b = 0
+while b != "kokok":
+    b = input()
+    if b != "kokok":
+        print("enter your pass!!!")
+    else:
+        print("okey go to work")
